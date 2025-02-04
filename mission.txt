@@ -1,6 +1,29 @@
-1 :  J'ai initialisé un repository git dans mon dossier src qui contient mes codes HTML et CSS
-j'ai fait un git add pour ajouter tous les fichiers avant de faire un commit
 
-2: J'ai crée un repository github nomme portfolio
-lien : https://github.com/GrandLay-e/portfolio_test.git
+1. Initialisation du dépôt Git 
 
+J'ai initialisé un dépôt Git dans mon dossier `src` qui contient mes fichiers HTML et CSS. 
+Ensuite, j'ai ajouté tous les fichiers au suivi Git avec la commande `git add`, avant de réaliser un commit initial.
+
+2. Création du dépôt GitHub
+
+J'ai créé un dépôt GitHub nommé **portfolio** à l'adresse suivante : [portfolio_test](https://github.com/GrandLay-e/portfolio_test.git). 
+En suivant le cours disponible [ici](https://publish.obsidian.md/oddoz/Cours/0.+Les+outils+du+dev/0.2+Git+%26+Github/1.+Git), 
+j'ai créé une branche. Par la suite, j'ai lié le dépôt local à mon compte GitHub en utilisant le lien. 
+J'ai effectué un commit avec le message : "Initialisation du portfolio".
+
+3. Collaboration avec Mohamed Rahim
+
+Pour collaborer avec Mohamed Rahim, j'ai consulté DeepSeek : How to Collaborate in GitHub with a partner. 
+Voici la procédure que nous avons suivie :
+1. Création d'un fichier `README.md` dans mon dépôt GitHub.
+2. Ajout mutuel comme collaborateurs dans nos dépôts GitHub respectifs.
+3. Clonage des dépôts GitHub de l'autre et création d'une branche `documentation`.
+4. Modification réciproque de fichiers suivie d'un `push`.
+5. Réalisation de pull requests dans les dépôts respectifs, puis acceptation via un merge.
+
+BONUS : FORK
+Chacun a crée un fork du depot Github de l'autre.
+On a clôné le dépot copie ou du fork dans un depot git en LOCAL
+Puis chacun a apporté un peu de Modification pour lui-même 
+Pas la suite, on fait un commit pour inserer les modifcations
+pour, enfin, faire le push vers le dépot cloné.
