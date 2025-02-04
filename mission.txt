@@ -26,4 +26,10 @@ Chacun a crée un fork du depot Github de l'autre.
 On a clôné le dépot copie ou du fork dans un depot git en LOCAL
 Puis chacun a apporté un peu de Modification pour lui-même 
 Pas la suite, on fait un commit pour inserer les modifcations
-pour, enfin, faire le push vers le dépot cloné.
+pour, enfin, faire le push vers le dépôt cloné.
+
+
+Les liens : 
+
+Portfolio pour la mission : https://github.com/GrandLay-e/portfolio_test 
+Le lien du Fork : https://github.com/GrandLay-e/Portfolio_copie_rahim
